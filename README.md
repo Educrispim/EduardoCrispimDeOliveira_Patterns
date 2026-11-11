@@ -1,0 +1,1 @@
+# EduardoCrispimDeOliveira_Patterns
