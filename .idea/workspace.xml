@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43ccda00-338a-42ee-b7e4-6f65f3648147" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="2ce0b175-0699-4744-9c8a-98984b22100f" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="2ce0b175-0699-4744-9c8a-98984b22100f" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/dusca01/patterns" value="3LwPzj1W1wDH6A9g1vMgXVpuFef" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000713752928" />
+      <entry key="MS500" value="1.0372142816315517" />
+      <entry key="S2" value="1.447661328008511" />
+      <entry key="S5" value="1.8677032934711044" />
+      <entry key="S10" value="2.233773347760681" />
+      <entry key="S30" value="2.900265477612658" />
+      <entry key="S60" value="3.8783374115251523" />
+      <entry key="M2" value="5.198320712918556" />
+      <entry key="M5" value="6.6187457207185565" />
+      <entry key="M10" value="7.256323775781615" />
+      <entry key="M15" value="7.491586425305883" />
+      <entry key="M30" value="7.7392540690254075" />
+      <entry key="H1" value="7.867948752269066" />
+      <entry key="H2" value="7.933549240992966" />
+      <entry key="H4" value="7.966667633006439" />
+      <entry key="D1" value="7.994429686017483" />
+      <entry key="W1" value="7.999203874698115" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9526380665116947" />
+      <entry key="MS500" value="1.0272488976494414" />
+      <entry key="S2" value="1.4443083349014334" />
+      <entry key="S5" value="1.8660119220628069" />
+      <entry key="S10" value="2.2327707095246607" />
+      <entry key="S30" value="2.89900337779598" />
+      <entry key="S60" value="3.876009707973547" />
+      <entry key="M2" value="5.195867649771932" />
+      <entry key="M5" value="6.617189799950301" />
+      <entry key="M10" value="7.255415233313995" />
+      <entry key="M15" value="7.490948491934428" />
+      <entry key="M30" value="7.738918104136268" />
+      <entry key="H1" value="7.8677763480034555" />
+      <entry key="H2" value="7.933461911194436" />
+      <entry key="H4" value="7.966623683371073" />
+      <entry key="D1" value="7.99442232129021" />
+      <entry key="W1" value="7.999202821616658" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LwPzj1W1wDH6A9g1vMgXVpuFef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Principal2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/dusca01/patterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43ccda00-338a-42ee-b7e4-6f65f3648147" name="Changes" comment="" />
+      <created>1794362420907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794362420907</updated>
+      <workItem from="1794362421942" duration="1266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
